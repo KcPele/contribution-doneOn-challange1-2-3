@@ -56,7 +56,7 @@ Third challange
 #### added component
 #### https://github.com/punk1234/zuri-school-election-dapp/commit/7d8fd519fba0529cd9f53612bb951f6837ae3d77
 #### description:
-    create all teh componts
+    create all the components
     https://github.com/punk1234/zuri-school-election-dapp/compare/dev...KcPele:dev
 
 
