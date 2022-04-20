@@ -44,6 +44,20 @@ second challange
     created the fronted end
     implemented web3 to react
     created the components
-    
+
+
+Third challange
+========================================================
+#### added my on task
+#### https://github.com/punk1234/zuri-school-election-dapp/commit/07696cddd2fbfd126a51442f485e1c48b9dee53d
+#### description:
+    wrote the function to addTeachers, addStudent, addDirectors
+    and the event it emits
+#### added component
+#### https://github.com/punk1234/zuri-school-election-dapp/commit/7d8fd519fba0529cd9f53612bb951f6837ae3d77
+#### description:
+    create all teh componts
+    https://github.com/punk1234/zuri-school-election-dapp/compare/dev...KcPele:dev
+
 
 
