@@ -58,6 +58,7 @@ Third challange
 #### description:
     create some of the components
     https://github.com/punk1234/zuri-school-election-dapp/compare/dev...KcPele:dev
-
+#### added dashboad
+#### https://github.com/KcPele/zuri-school-election-dapp/commit/1c135d2c56fc6dee2c9fdb257c0ac7ec0d7cac53
 
 
